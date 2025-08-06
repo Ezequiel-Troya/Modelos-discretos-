@@ -1,0 +1,19 @@
+# Cada bloque representa una pregunta con sus tres opciones y la respuesta correcta
+
+¿Cuál es la capital de Francia?
+A) Berlín
+B) París
+C) Madrid
+B
+
+¿Qué lenguaje se usa para programar en Arduino?
+A) Python
+B) C++
+C) Java
+B
+
+¿Quién escribió 'Cien años de soledad'?
+A) Pablo Neruda
+B) Julio Cortázar
+C) Gabriel García Márquez
+C
