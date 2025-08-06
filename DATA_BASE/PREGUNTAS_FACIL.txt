@@ -1,1 +1,30 @@
-🔹 
+¿Qué es un conjunto en teoría de conjuntos?
+A) Una colección ordenada de elementos, donde los elementos pueden repetirse
+B) Una colección de elementos donde el orden no importa y no hay elementos repetidos
+C) Una estructura que almacena pares de valores
+B
+
+¿Qué propiedad debe tener una relación para ser considerada una relación de equivalencia?
+A) Reflexiva, simétrica y transitiva
+B) Simétrica y antisímetrica
+C) Reflexiva y transitiva solamente
+A
+
+¿Qué es un grafo dirigido?
+A) Un conjunto de nodos conectados por aristas que no tienen dirección
+B) Un conjunto de nodos conectados por aristas que tienen dirección
+C) Un conjunto de nodos sin conexiones entre ellos
+B
+
+¿Qué es un autómata finito?
+A) Un modelo matemático que representa un sistema con un número finito de estados y transiciones
+B) Un algoritmo que calcula la suma de números enteros
+C) Un programa que procesa cadenas de texto sin estados definidos
+A
+
+¿Cuál es la relación entre expresiones regulares y autómatas?
+A) Las expresiones regulares pueden ser representadas y evaluadas por autómatas finitos
+B) Las expresiones regulares son un tipo de grafo
+C) Los autómatas finitos no tienen relación con expresiones regulares
+A🔹 
+
