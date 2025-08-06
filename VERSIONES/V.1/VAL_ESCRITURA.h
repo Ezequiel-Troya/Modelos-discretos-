@@ -1,0 +1,1 @@
+//Validaciones de tipos de datos
