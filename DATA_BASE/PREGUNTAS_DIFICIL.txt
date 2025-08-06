@@ -1,1 +1,30 @@
-🔹 
+¿Cuál es la condición necesaria y suficiente para que un grafo no dirigido tenga un ciclo Euleriano?
+A) Todos los vértices tienen grado par y el grafo es conexo
+B) Solo dos vértices tienen grado impar
+C) El grafo es bipartito y conexo
+A
+
+¿Qué es un autómata con pila (PDA) y qué tipo de lenguajes reconoce?
+A) Un autómata con memoria limitada que reconoce lenguajes regulares
+B) Un autómata con una pila que reconoce lenguajes libres de contexto
+C) Un autómata con memoria infinita que reconoce todos los lenguajes formales
+B
+
+¿Cuál es la diferencia principal entre un autómata finito determinista (AFD) y uno no determinista (AFN)?
+A) El AFD no tiene estados finales, el AFN sí
+B) En el AFD, para cada estado y símbolo hay una única transición, en el AFN puede haber varias
+C) El AFN tiene más estados que el AFD
+B
+
+¿Qué es la relación de orden parcial en teoría de conjuntos?
+A) Una relación reflexiva, simétrica y transitiva
+B) Una relación reflexiva, antisímetrica y transitiva
+C) Una relación irreflexiva y simétrica
+B
+
+¿Qué implica que dos grafos sean isomorfos?
+A) Que tienen igual número de vértices pero diferente estructura de conexiones
+B) Que existe una correspondencia uno a uno entre sus vértices preservando las aristas
+C) Que tienen ciclos con diferentes longitudes
+B
+
