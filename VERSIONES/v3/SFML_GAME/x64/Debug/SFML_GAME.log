@@ -1,0 +1,189 @@
+﻿  InterfazJuego.cpp
+C:\Users\Asus\source\repos\SFML_GAME\Reglas.h(6,8): error C2011: 'Jugador': 'struct' type redefinition
+  (compiling source file 'InterfazJuego.cpp')
+      C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.h(20,8):
+      see declaration of 'Jugador'
+  
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(10,44): error C2660: '__ehvec_ctor': function does not take 4 arguments
+      C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(10,44):
+      see declaration of '__ehvec_ctor'
+      C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(10,44):
+      while trying to match the argument list '(Jugador (*)[2], size_t, unsigned __int64, void (__cdecl *)(void *))'
+  
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(24,16): error C2027: use of undefined type 'Jugador'
+      C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.h(20,8):
+      see declaration of 'Jugador'
+  
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(25,16): error C2027: use of undefined type 'Jugador'
+      C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.h(20,8):
+      see declaration of 'Jugador'
+  
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(27,16): error C2027: use of undefined type 'Jugador'
+      C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.h(20,8):
+      see declaration of 'Jugador'
+  
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(28,16): error C2027: use of undefined type 'Jugador'
+      C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.h(20,8):
+      see declaration of 'Jugador'
+  
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(84,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(115,58): error C2027: use of undefined type 'Jugador'
+      C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.h(20,8):
+      see declaration of 'Jugador'
+  
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(127,71): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(145,59): error C2027: use of undefined type 'Jugador'
+      C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.h(20,8):
+      see declaration of 'Jugador'
+  
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(145,90): error C2027: use of undefined type 'Jugador'
+      C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.h(20,8):
+      see declaration of 'Jugador'
+  
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(146,59): error C2027: use of undefined type 'Jugador'
+      C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.h(20,8):
+      see declaration of 'Jugador'
+  
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(146,90): error C2027: use of undefined type 'Jugador'
+      C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.h(20,8):
+      see declaration of 'Jugador'
+  
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(150,36): error C2027: use of undefined type 'Jugador'
+      C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.h(20,8):
+      see declaration of 'Jugador'
+  
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(150,58): error C2027: use of undefined type 'Jugador'
+      C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.h(20,8):
+      see declaration of 'Jugador'
+  
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(149,27): error C2664: 'void ArbolDecisiones::mostrar(const std::vector<Seleccion,std::allocator<Seleccion>> &,const std::vector<Seleccion,std::allocator<Seleccion>> &,int,int,const std::string &)': cannot convert argument 3 from 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' to 'int'
+      C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(151,36):
+      No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+      C:\Users\Asus\source\repos\SFML_GAME\ArbolDecisiones.h(25,10):
+      see declaration of 'ArbolDecisiones::mostrar'
+      C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(149,27):
+      while trying to match the argument list '(std::vector<Seleccion,std::allocator<Seleccion>>, std::vector<Seleccion,std::allocator<Seleccion>>, std::basic_string<char,std::char_traits<char>,std::allocator<char>>)'
+  
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(179,28): error C2027: use of undefined type 'Jugador'
+      C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.h(20,8):
+      see declaration of 'Jugador'
+  
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(182,28): error C2027: use of undefined type 'Jugador'
+      C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.h(20,8):
+      see declaration of 'Jugador'
+  
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(247,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(253,32): error C2027: use of undefined type 'Jugador'
+      C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.h(20,8):
+      see declaration of 'Jugador'
+  
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(259,68): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(259,68): warning C4244:         with
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(259,68): warning C4244:         [
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(259,68): warning C4244:             T=int
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(259,68): warning C4244:         ]
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(259,68): warning C4244:         and
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(259,68): warning C4244:         [
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(259,68): warning C4244:             T=float
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(259,68): warning C4244:         ]
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(259,56): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(259,56): warning C4244:         with
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(259,56): warning C4244:         [
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(259,56): warning C4244:             T=int
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(259,56): warning C4244:         ]
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(259,56): warning C4244:         and
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(259,56): warning C4244:         [
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(259,56): warning C4244:             T=float
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(259,56): warning C4244:         ]
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(260,73): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(260,73): warning C4244:         with
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(260,73): warning C4244:         [
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(260,73): warning C4244:             T=int
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(260,73): warning C4244:         ]
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(260,73): warning C4244:         and
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(260,73): warning C4244:         [
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(260,73): warning C4244:             T=float
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(260,73): warning C4244:         ]
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(260,61): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(260,61): warning C4244:         with
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(260,61): warning C4244:         [
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(260,61): warning C4244:             T=int
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(260,61): warning C4244:         ]
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(260,61): warning C4244:         and
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(260,61): warning C4244:         [
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(260,61): warning C4244:             T=float
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(260,61): warning C4244:         ]
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(261,73): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(261,73): warning C4244:         with
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(261,73): warning C4244:         [
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(261,73): warning C4244:             T=int
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(261,73): warning C4244:         ]
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(261,73): warning C4244:         and
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(261,73): warning C4244:         [
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(261,73): warning C4244:             T=float
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(261,73): warning C4244:         ]
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(261,61): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(261,61): warning C4244:         with
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(261,61): warning C4244:         [
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(261,61): warning C4244:             T=int
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(261,61): warning C4244:         ]
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(261,61): warning C4244:         and
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(261,61): warning C4244:         [
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(261,61): warning C4244:             T=float
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(261,61): warning C4244:         ]
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(264,69): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(264,69): warning C4244:         with
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(264,69): warning C4244:         [
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(264,69): warning C4244:             T=int
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(264,69): warning C4244:         ]
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(264,69): warning C4244:         and
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(264,69): warning C4244:         [
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(264,69): warning C4244:             T=float
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(264,69): warning C4244:         ]
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(264,57): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(264,57): warning C4244:         with
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(264,57): warning C4244:         [
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(264,57): warning C4244:             T=int
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(264,57): warning C4244:         ]
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(264,57): warning C4244:         and
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(264,57): warning C4244:         [
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(264,57): warning C4244:             T=float
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(264,57): warning C4244:         ]
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(265,74): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(265,74): warning C4244:         with
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(265,74): warning C4244:         [
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(265,74): warning C4244:             T=int
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(265,74): warning C4244:         ]
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(265,74): warning C4244:         and
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(265,74): warning C4244:         [
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(265,74): warning C4244:             T=float
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(265,74): warning C4244:         ]
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(265,62): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(265,62): warning C4244:         with
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(265,62): warning C4244:         [
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(265,62): warning C4244:             T=int
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(265,62): warning C4244:         ]
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(265,62): warning C4244:         and
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(265,62): warning C4244:         [
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(265,62): warning C4244:             T=float
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(265,62): warning C4244:         ]
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(266,74): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(266,74): warning C4244:         with
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(266,74): warning C4244:         [
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(266,74): warning C4244:             T=int
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(266,74): warning C4244:         ]
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(266,74): warning C4244:         and
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(266,74): warning C4244:         [
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(266,74): warning C4244:             T=float
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(266,74): warning C4244:         ]
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(266,62): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(266,62): warning C4244:         with
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(266,62): warning C4244:         [
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(266,62): warning C4244:             T=int
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(266,62): warning C4244:         ]
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(266,62): warning C4244:         and
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(266,62): warning C4244:         [
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(266,62): warning C4244:             T=float
+C:\Users\Asus\source\repos\SFML_GAME\InterfazJuego.cpp(266,62): warning C4244:         ]
+  Reglas.cpp
+  Generating Code...

@@ -1,0 +1,30 @@
+¿Qué representa una función biyectiva entre dos conjuntos?
+A) Es inyectiva pero no sobreyectiva
+B) Es tanto inyectiva como sobreyectiva
+C) No es ni inyectiva ni sobreyectiva
+B
+
+¿Cuál de las siguientes afirmaciones es verdadera para un grafo bipartito?
+A) Tiene un ciclo impar
+B) No puede tener ciclos
+C) Sus vértices se pueden dividir en dos conjuntos sin aristas internas
+C
+
+¿Qué tipo de autómata reconoce exactamente los lenguajes regulares?
+A) Autómata finito determinista (AFD)
+B) Máquina de Turing
+C) Autómata con pila
+A
+
+En teoría de grafos, ¿qué es un ciclo Euleriano?
+A) Un ciclo que visita cada vértice una sola vez
+B) Un ciclo que usa todas las aristas exactamente una vez
+C) Un ciclo que usa aristas y vértices varias veces
+B
+
+¿Qué representa la lógica proposicional en el contexto de software?
+A) Un método para almacenar datos en bases de datos
+B) Un sistema para expresar y evaluar condiciones lógicas y decisiones
+C) Un algoritmo para ordenar datos
+B🔹 
+
